@@ -1,2 +1,2 @@
 <?php
-  echo 'Hello Circle CI Test!';
+  echo 'Hello Circle CI Test2!';
